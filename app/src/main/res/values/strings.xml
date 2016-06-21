@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BroadcastReceiverASv2</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">telnet localhost 5554  y luego  power ac on/off</string>
+</resources>
